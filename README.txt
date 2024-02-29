@@ -1,4 +1,4 @@
-This is JODReports version 2.4.0, released on 2011-01-28
+This is JODReports version 2.5.0, released on 2024-02-29
 
 Please see
 
@@ -9,8 +9,7 @@ for the latest and up to date documentation.
 Requirements
 ============
 
-JODReports requires Java 1.4 or later (although with minor modifications
-it can be made to work with 1.3 as well).
+JODReports requires Java 1.8 or later.
 
 To create documents in formats other than OpenDocument Text (odt) 
 please use JODConverter library
